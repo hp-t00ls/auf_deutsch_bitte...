@@ -1,0 +1,181 @@
+id	case	trigger	trigger_type	german	answer	noun	number	article	english
+N01	Nominativ	Subjekt	Subjekt	___ beginnt um neun Uhr.	die Vorlesung	die Vorlesung	sg	bestimmt	The lecture starts at nine o'clock.
+N02	Nominativ	Subjekt	Subjekt	___ wohnt direkt neben der Mensa.	ein Student	der Student	sg	unbestimmt	A student lives right next to the cafeteria.
+N03	Nominativ	Subjekt	Subjekt (nach dem Verb)	Heute Morgen hat ___ angerufen.	der Vermieter	der Vermieter	sg	bestimmt	The landlord called this morning.
+N04	Nominativ	Subjekt	Subjekt (nach dem Verb)	Gestern ist ___ aus dem Regal gefallen.	ein Buch	das Buch	sg	unbestimmt	Yesterday a book fell off the shelf.
+N05	Nominativ	Subjekt	Subjekt	___ schmeckt mir gar nicht.	der Kaffee	der Kaffee	sg	bestimmt	I don't like the coffee at all.
+N06	Nominativ	Subjekt	Subjekt (nach dem Verb)	Morgen findet ___ im Hörsaal statt.	die Prüfung	die Prüfung	sg	bestimmt	The exam takes place in the lecture hall tomorrow.
+N07	Nominativ	Subjekt	Subjekt	___ warten vor dem Eingang.	die Studenten	die Studenten	pl	bestimmt	The students are waiting in front of the entrance.
+N08	Nominativ	Subjekt	Subjekt (nach dem Verb)	In der Küche steht ___.	ein Tisch	der Tisch	sg	unbestimmt	There is a table in the kitchen.
+N09	Nominativ	sein	Prädikativ (sein)	Das ist ___, keine Lösung.	ein Problem	das Problem	sg	unbestimmt	That's a problem, not a solution.
+N10	Nominativ	sein	Prädikativ (sein)	Herr Becker ist ___ meiner Mutter.	der Kollege	der Kollege	sg	bestimmt	Mr Becker is my mother's colleague.
+N11	Nominativ	sein	Prädikativ (sein)	Das war ___ des Jahres!	die Überraschung	die Überraschung	sg	bestimmt	That was the surprise of the year!
+N12	Nominativ	werden	Prädikativ (werden)	Aus der Idee wurde schnell ___.	ein Projekt	das Projekt	sg	unbestimmt	The idea quickly turned into a project.
+N13	Nominativ	bleiben	Prädikativ (bleiben)	Das bleibt für mich ___.	ein Rätsel	das Rätsel	sg	unbestimmt	That remains a mystery to me.
+N14	Nominativ	Subjekt	Subjekt (Frage)	Wie heißt ___ von diesem Restaurant?	der Besitzer	der Besitzer	sg	bestimmt	What's the name of the owner of this restaurant?
+N15	Nominativ	Subjekt	Subjekt (Frage)	Wo ist ___? Ich finde ihn nicht.	der Schlüssel	der Schlüssel	sg	bestimmt	Where is the key? I can't find it.
+N16	Nominativ	Subjekt	Subjekt	___ sind dieses Jahr sehr hoch.	die Mieten	die Mieten	pl	bestimmt	Rents are very high this year.
+N17	Nominativ	Subjekt	Subjekt (nach dem Verb)	In diesem Haus wohnen ___.	keine Kinder	die Kinder	pl	kein	No children live in this house.
+N18	Nominativ	Subjekt	Subjekt (nach dem Verb)	Um 18 Uhr ist ___ in Köln gelandet.	das Flugzeug	das Flugzeug	sg	bestimmt	The plane landed in Cologne at 6 p.m.
+N19	Nominativ	Subjekt	Subjekt (Nebensatz)	Ich weiß nicht, ob ___ heute noch kommt.	der Techniker	der Techniker	sg	bestimmt	I don't know whether the technician is still coming today.
+N20	Nominativ	Subjekt	Subjekt (Nebensatz)	Weißt du, wann ___ beginnt?	das Semester	das Semester	sg	bestimmt	Do you know when the semester starts?
+N21	Nominativ	sein	Prädikativ (sein)	Bonn war früher ___ der Bundesrepublik.	die Hauptstadt	die Hauptstadt	sg	bestimmt	Bonn used to be the capital of the Federal Republic.
+N22	Nominativ	Subjekt	Subjekt	___ hat mir den Weg gezeigt.	ein Junge	der Junge	sg	unbestimmt	A boy showed me the way.
+N23	Nominativ	Subjekt	Subjekt (nach dem Verb)	Plötzlich klingelte ___.	das Telefon	das Telefon	sg	bestimmt	Suddenly the phone rang.
+N24	Nominativ	werden	Prädikativ (werden)	Das wird ___ für uns alle.	eine Herausforderung	die Herausforderung	sg	unbestimmt	That will be a challenge for all of us.
+N25	Nominativ	gefallen	Subjekt (Falle: mir = Dativ!)	Mir gefällt ___ sehr.	die Wohnung	die Wohnung	sg	bestimmt	I really like the apartment.
+N26	Nominativ	fehlen	Subjekt (Falle: mir = Dativ!)	Mir fehlt ___ zum Lernen.	die Motivation	die Motivation	sg	bestimmt	I lack the motivation to study.
+N27	Nominativ	wehtun	Subjekt (Falle: dem Kind = Dativ!)	Dem Kind tut ___ weh.	der Bauch	der Bauch	sg	bestimmt	The child's stomach hurts.
+N28	Nominativ	sein	Prädikativ (sein)	Wer ist ___ da hinten?	der Mann	der Mann	sg	bestimmt	Who is the man over there?
+N29	Nominativ	sein	Prädikativ (sein)	Das ist genau ___, die ich gesucht habe.	die Antwort	die Antwort	sg	bestimmt	That's exactly the answer I was looking for.
+N30	Nominativ	Subjekt	Subjekt (nach dem Verb)	Zum Glück sind ___ aufgetreten.	keine Probleme	die Probleme	pl	kein	Fortunately, no problems came up.
+N31	Nominativ	Subjekt	Subjekt (nach dem Verb)	Bei uns im Haus wohnt ___ aus Spanien.	eine Familie	die Familie	sg	unbestimmt	A family from Spain lives in our building.
+N32	Nominativ	Subjekt	Subjekt	___ hat drei Zimmer und einen Balkon.	das Haus	das Haus	sg	bestimmt	The house has three rooms and a balcony.
+N33	Nominativ	Subjekt	Subjekt (Frage)	Hat ___ schon angefangen?	der Film	der Film	sg	bestimmt	Has the film already started?
+N34	Nominativ	Subjekt	Subjekt	___ meines Nachbarn bellt jede Nacht.	der Hund	der Hund	sg	bestimmt	My neighbour's dog barks every night.
+N35	Nominativ	Subjekt	Subjekt	Allein ___ an die Prüfung macht mich nervös.	der Gedanke	der Gedanke	sg	bestimmt	Just the thought of the exam makes me nervous.
+A01	Akkusativ	haben	Akkusativobjekt	Hast du ___? Ich muss etwas aufschreiben.	einen Stift	der Stift	sg	unbestimmt	Do you have a pen? I need to write something down.
+A02	Akkusativ	brauchen	Akkusativobjekt	Für den Kurs brauche ich ___.	ein Wörterbuch	das Wörterbuch	sg	unbestimmt	I need a dictionary for the course.
+A03	Akkusativ	sehen	Akkusativobjekt	Siehst du ___ dort drüben?	den Turm	der Turm	sg	bestimmt	Do you see the tower over there?
+A04	Akkusativ	kaufen	Akkusativobjekt	Ich habe gestern ___ gekauft.	ein Fahrrad	das Fahrrad	sg	unbestimmt	I bought a bike yesterday.
+A05	Akkusativ	besuchen	Akkusativobjekt	Am Wochenende besuchen wir ___.	die Großeltern	die Großeltern	pl	bestimmt	We're visiting the grandparents at the weekend.
+A06	Akkusativ	lesen	Akkusativobjekt	Hast du ___ schon gelesen?	den Artikel	der Artikel	sg	bestimmt	Have you read the article yet?
+A07	Akkusativ	finden	Akkusativobjekt	Ich finde ___ nicht mehr.	den Studentenausweis	der Studentenausweis	sg	bestimmt	I can't find the student ID anymore.
+A08	Akkusativ	kennen	Akkusativobjekt (n-Deklination)	Kennst du ___ aus dem dritten Stock?	den Nachbarn	der Nachbar	sg	bestimmt	Do you know the neighbour from the third floor?
+A09	Akkusativ	fragen	Akkusativobjekt (n-Deklination)	Frag doch ___, er weiß das bestimmt.	den Kollegen	der Kollege	sg	bestimmt	Just ask the colleague, he's sure to know.
+A10	Akkusativ	treffen	Akkusativobjekt	Gestern habe ich im Bus ___ aus meinem Kurs getroffen.	eine Kommilitonin	die Kommilitonin	sg	unbestimmt	Yesterday on the bus I met a classmate from my course.
+A11	Akkusativ	es gibt	es gibt + Akkusativ	Gibt es hier in der Nähe ___?	eine Apotheke	die Apotheke	sg	unbestimmt	Is there a pharmacy near here?
+A12	Akkusativ	es gibt	es gibt + Akkusativ	Im Zimmer gibt es leider ___.	keinen Schreibtisch	der Schreibtisch	sg	kein	Unfortunately there's no desk in the room.
+A13	Akkusativ	es gibt	es gibt + Akkusativ	Heute gibt es ___ mehr.	keine Brötchen	die Brötchen	pl	kein	There are no more bread rolls today.
+A14	Akkusativ	machen	Akkusativobjekt	Wir machen nächste Woche ___ nach Köln.	einen Ausflug	der Ausflug	sg	unbestimmt	We're going on a trip to Cologne next week.
+A15	Akkusativ	treffen	Akkusativobjekt	Du musst endlich ___ treffen.	eine Entscheidung	die Entscheidung	sg	unbestimmt	You finally have to make a decision.
+A16	Akkusativ	haben	Akkusativobjekt	Hast du ___ für das Problem?	eine Lösung	die Lösung	sg	unbestimmt	Do you have a solution to the problem?
+A17	Akkusativ	schreiben	Akkusativobjekt	Ich muss bis Freitag ___ schreiben.	eine Hausarbeit	die Hausarbeit	sg	unbestimmt	I have to write a term paper by Friday.
+A18	Akkusativ	bestellen	Akkusativobjekt	Ich bestelle ___ und ein Wasser.	einen Salat	der Salat	sg	unbestimmt	I'll order a salad and a water.
+A19	Akkusativ	vergessen	Akkusativobjekt	Ich habe ___ zu Hause vergessen.	den Regenschirm	der Regenschirm	sg	bestimmt	I left the umbrella at home.
+A20	Akkusativ	verstehen	Akkusativobjekt	Ich verstehe ___ nicht.	die Frage	die Frage	sg	bestimmt	I don't understand the question.
+A21	Akkusativ	für	Akkusativ-Präposition	Ich habe ein Geschenk für ___.	die Gastgeberin	die Gastgeberin	sg	bestimmt	I have a present for the hostess.
+A22	Akkusativ	für	Akkusativ-Präposition (n-Deklination)	Für ___ ist das kein Problem.	einen Experten	der Experte	sg	unbestimmt	For an expert, that's no problem.
+A23	Akkusativ	ohne	Akkusativ-Präposition	Ohne ___ gehe ich nicht aus dem Haus.	das Handy	das Handy	sg	bestimmt	I don't leave the house without my phone.
+A24	Akkusativ	ohne	Akkusativ-Präposition	Ohne ___ am Morgen funktioniere ich nicht.	den Kaffee	der Kaffee	sg	bestimmt	Without my morning coffee I can't function.
+A25	Akkusativ	durch	Akkusativ-Präposition	Wir sind durch ___ gelaufen.	den Park	der Park	sg	bestimmt	We walked through the park.
+A26	Akkusativ	durch	Akkusativ-Präposition	Ich habe die Wohnung durch ___ gefunden.	einen Freund	der Freund	sg	unbestimmt	I found the apartment through a friend.
+A27	Akkusativ	gegen	Akkusativ-Präposition	Das Auto ist gegen ___ gefahren.	einen Baum	der Baum	sg	unbestimmt	The car crashed into a tree.
+A28	Akkusativ	gegen	Akkusativ-Präposition	Viele Bürger protestieren gegen ___ der Stadt.	den Plan	der Plan	sg	bestimmt	Many citizens are protesting against the city's plan.
+A29	Akkusativ	um	Akkusativ-Präposition	Wir sitzen um ___ herum.	den Tisch	der Tisch	sg	bestimmt	We're sitting around the table.
+A30	Akkusativ	es geht um	Akkusativ-Präposition (n-Deklination)	In dem Film geht es um ___ aus Berlin.	einen Jungen	der Junge	sg	unbestimmt	The film is about a boy from Berlin.
+A31	Akkusativ	entlang	Akkusativ-Präposition (nachgestellt)	Wir fahren ___ entlang.	den Rhein	der Rhein	sg	bestimmt	We're driving along the Rhine.
+A32	Akkusativ	in (wohin?)	Wechselpräposition: Richtung	Morgen gehen wir in ___.	die Stadt	die Stadt	sg	bestimmt	Tomorrow we're going into town.
+A33	Akkusativ	auf (wohin?)	Wechselpräposition: Richtung	Leg das Buch bitte auf ___.	den Tisch	der Tisch	sg	bestimmt	Please put the book on the table.
+A34	Akkusativ	an (wohin?)	Wechselpräposition: Richtung	Ich hänge das Bild an ___.	die Wand	die Wand	sg	bestimmt	I'm hanging the picture on the wall.
+A35	Akkusativ	neben (wohin?)	Wechselpräposition: Richtung	Stell den Stuhl neben ___.	das Fenster	das Fenster	sg	bestimmt	Put the chair next to the window.
+A36	Akkusativ	unter (wohin?)	Wechselpräposition: Richtung	Die Katze ist unter ___ gelaufen.	das Bett	das Bett	sg	bestimmt	The cat ran under the bed.
+A37	Akkusativ	hinter (wohin?)	Wechselpräposition: Richtung	Der Ball ist hinter ___ gerollt.	den Schrank	der Schrank	sg	bestimmt	The ball rolled behind the wardrobe.
+A38	Akkusativ	zwischen (wohin?)	Wechselpräposition: Richtung	Ich lege das Foto zwischen ___.	die Bücher	die Bücher	pl	bestimmt	I'm putting the photo between the books.
+A39	Akkusativ	über (wohin?)	Wechselpräposition: Richtung	Wir gehen über ___.	die Brücke	die Brücke	sg	bestimmt	We're walking across the bridge.
+A40	Akkusativ	vor (wohin?)	Wechselpräposition: Richtung	Er hat sich vor ___ gestellt.	den Spiegel	der Spiegel	sg	bestimmt	He went and stood in front of the mirror.
+A41	Akkusativ	Zeitdauer	Zeitangabe ohne Präposition	Ich war ___ in Spanien.	einen Monat	der Monat	sg	unbestimmt	I was in Spain for a month.
+A42	Akkusativ	Zeitdauer	Zeitangabe ohne Präposition	Wir haben ___ auf den Bus gewartet.	eine Stunde	die Stunde	sg	unbestimmt	We waited an hour for the bus.
+A43	Akkusativ	warten auf	Verb + Präposition	Ich warte auf ___.	den Bus	der Bus	sg	bestimmt	I'm waiting for the bus.
+A44	Akkusativ	sich freuen auf	Verb + Präposition	Ich freue mich auf ___.	das Wochenende	das Wochenende	sg	bestimmt	I'm looking forward to the weekend.
+A45	Akkusativ	denken an	Verb + Präposition	Ich denke oft an ___ in Italien.	die Zeit	die Zeit	sg	bestimmt	I often think about the time in Italy.
+A46	Akkusativ	sich interessieren für	Verb + Präposition	Sie interessiert sich für ___ der Stadt.	die Geschichte	die Geschichte	sg	bestimmt	She's interested in the history of the city.
+A47	Akkusativ	sich kümmern um	Verb + Präposition	Wer kümmert sich um ___?	den Hund	der Hund	sg	bestimmt	Who's looking after the dog?
+A48	Akkusativ	sich ärgern über	Verb + Präposition	Ich ärgere mich über ___.	die Verspätung	die Verspätung	sg	bestimmt	I'm annoyed about the delay.
+A49	Akkusativ	sehen	Akkusativobjekt (n-Deklination)	Haben Sie ___ gesehen?	den Kunden	der Kunde	sg	bestimmt	Have you seen the customer?
+A50	Akkusativ	kennen	Akkusativobjekt (n-Deklination)	Ich kenne ___, der dir helfen kann.	einen Studenten	der Student	sg	unbestimmt	I know a student who can help you.
+A51	Akkusativ	mögen	Akkusativobjekt	Ich mag ___ in Bonn.	den Herbst	der Herbst	sg	bestimmt	I like autumn in Bonn.
+D01	Dativ	helfen	Dativ-Verb (n-Deklination)	Kannst du ___ helfen?	dem Jungen	der Junge	sg	bestimmt	Can you help the boy?
+D02	Dativ	danken	Dativ-Verb	Wir danken ___ für den schönen Abend.	den Gastgebern	die Gastgeber	pl	bestimmt	We thank the hosts for the lovely evening.
+D03	Dativ	gehören	Dativ-Verb (n-Deklination)	Das Fahrrad gehört ___.	dem Nachbarn	der Nachbar	sg	bestimmt	The bike belongs to the neighbour.
+D04	Dativ	gefallen	Dativ-Verb (n-Deklination)	Die Stadt hat ___ sehr gut gefallen.	den Touristen	die Touristen	pl	bestimmt	The tourists really liked the city.
+D05	Dativ	antworten	Dativ-Verb	Hast du ___ schon geantwortet?	der Professorin	die Professorin	sg	bestimmt	Have you replied to the professor yet?
+D06	Dativ	folgen	Dativ-Verb	Folgen Sie einfach ___ zum Ausgang.	den Schildern	die Schilder	pl	bestimmt	Just follow the signs to the exit.
+D07	Dativ	gratulieren	Dativ-Verb	Wir gratulieren ___ zur Hochzeit.	dem Brautpaar	das Brautpaar	sg	bestimmt	We congratulate the bride and groom on their wedding.
+D08	Dativ	vertrauen	Dativ-Verb	Ich vertraue ___ nicht.	dem Verkäufer	der Verkäufer	sg	bestimmt	I don't trust the salesman.
+D09	Dativ	zuhören	Dativ-Verb	Die Kinder hören ___ gespannt zu.	der Lehrerin	die Lehrerin	sg	bestimmt	The children listen intently to the teacher.
+D10	Dativ	schmecken	Dativ-Verb	Das Essen hat ___ nicht geschmeckt.	den Gästen	die Gäste	pl	bestimmt	The guests didn't like the food.
+D11	Dativ	passen	Dativ-Verb	Die Hose passt ___ nicht mehr.	dem Kind	das Kind	sg	bestimmt	The trousers don't fit the child anymore.
+D12	Dativ	geben	Dativobjekt (indirekt, n-Deklination)	Ich habe ___ meine Nummer gegeben.	dem Kommilitonen	der Kommilitone	sg	bestimmt	I gave my number to the classmate.
+D13	Dativ	schenken	Dativobjekt (indirekt)	Was schenken wir ___ zum Abschied?	dem Chef	der Chef	sg	bestimmt	What shall we give the boss as a leaving present?
+D14	Dativ	zeigen	Dativobjekt (indirekt)	Der Stadtführer zeigt ___ das Beethoven-Haus.	der Gruppe	die Gruppe	sg	bestimmt	The tour guide shows the group the Beethoven House.
+D15	Dativ	erklären	Dativobjekt (indirekt, n-Deklination)	Der Professor erklärt ___ die Aufgabe.	den Studenten	die Studenten	pl	bestimmt	The professor explains the assignment to the students.
+D16	Dativ	empfehlen	Dativobjekt (indirekt, n-Deklination)	Der Arzt empfiehlt ___ mehr Bewegung.	dem Patienten	der Patient	sg	bestimmt	The doctor recommends more exercise to the patient.
+D17	Dativ	schicken	Dativobjekt (indirekt)	Ich schicke ___ eine E-Mail.	der Firma	die Firma	sg	bestimmt	I'm sending the company an email.
+D18	Dativ	aus	Dativ-Präposition	Sie kommt aus ___.	der Schweiz	die Schweiz	sg	bestimmt	She comes from Switzerland.
+D19	Dativ	aus	Dativ-Präposition	Er nimmt das Handy aus ___.	der Tasche	die Tasche	sg	bestimmt	He takes the phone out of the bag.
+D20	Dativ	bei	Dativ-Präposition	Ich wohne bei ___.	einer Gastfamilie	die Gastfamilie	sg	unbestimmt	I live with a host family.
+D21	Dativ	mit	Dativ-Präposition	Ich fahre mit ___ zur Uni.	dem Bus	der Bus	sg	bestimmt	I take the bus to uni.
+D22	Dativ	mit	Dativ-Präposition (n-Deklination)	Ich habe schon mit ___ gesprochen.	dem Praktikanten	der Praktikant	sg	bestimmt	I've already spoken to the intern.
+D23	Dativ	mit	Dativ-Präposition	Am Wochenende spiele ich mit ___ Fußball.	den Kindern	die Kinder	pl	bestimmt	At the weekend I play football with the children.
+D24	Dativ	nach	Dativ-Präposition	Nach ___ gehen wir spazieren.	dem Essen	das Essen	sg	bestimmt	After the meal we go for a walk.
+D25	Dativ	nach	Dativ-Präposition	Nach ___ bin ich total müde.	der Arbeit	die Arbeit	sg	bestimmt	After work I'm completely exhausted.
+D26	Dativ	seit	Dativ-Präposition	Ich wohne seit ___ in Bonn.	einem Jahr	das Jahr	sg	unbestimmt	I've been living in Bonn for a year.
+D27	Dativ	seit	Dativ-Präposition	Es regnet schon seit ___.	einer Woche	die Woche	sg	unbestimmt	It's been raining for a week.
+D28	Dativ	von	Dativ-Präposition	Ich habe das von ___ gehört.	einer Freundin	die Freundin	sg	unbestimmt	I heard that from a friend.
+D29	Dativ	von	Dativ-Präposition (n-Deklination)	Das ist ein Geschenk von ___.	den Kollegen	die Kollegen	pl	bestimmt	That's a present from the colleagues.
+D30	Dativ	zu	Dativ-Präposition	Du solltest zu ___ gehen.	einem Arzt	der Arzt	sg	unbestimmt	You should go to a doctor.
+D31	Dativ	gegenüber	Dativ-Präposition	Die Apotheke liegt gegenüber ___.	dem Bahnhof	der Bahnhof	sg	bestimmt	The pharmacy is opposite the station.
+D32	Dativ	außer	Dativ-Präposition	Außer ___ war niemand da.	dem Hausmeister	der Hausmeister	sg	bestimmt	Apart from the caretaker, nobody was there.
+D33	Dativ	in (wo?)	Wechselpräposition: Ort	In ___ ist es mir zu laut.	der Mensa	die Mensa	sg	bestimmt	It's too loud for me in the cafeteria.
+D34	Dativ	auf (wo?)	Wechselpräposition: Ort	Das Buch liegt auf ___.	dem Tisch	der Tisch	sg	bestimmt	The book is lying on the table.
+D35	Dativ	an (wo?)	Wechselpräposition: Ort	Das Bild hängt an ___.	der Wand	die Wand	sg	bestimmt	The picture is hanging on the wall.
+D36	Dativ	neben (wo?)	Wechselpräposition: Ort	Der Stuhl steht neben ___.	dem Fenster	das Fenster	sg	bestimmt	The chair is next to the window.
+D37	Dativ	unter (wo?)	Wechselpräposition: Ort	Die Katze schläft unter ___.	dem Bett	das Bett	sg	bestimmt	The cat is sleeping under the bed.
+D38	Dativ	hinter (wo?)	Wechselpräposition: Ort	Der Ball liegt hinter ___.	dem Schrank	der Schrank	sg	bestimmt	The ball is behind the wardrobe.
+D39	Dativ	zwischen (wo?)	Wechselpräposition: Ort	Das Foto liegt zwischen ___.	den Büchern	die Bücher	pl	bestimmt	The photo is between the books.
+D40	Dativ	über (wo?)	Wechselpräposition: Ort	Über ___ hängt eine Lampe.	dem Tisch	der Tisch	sg	bestimmt	A lamp hangs above the table.
+D41	Dativ	vor (wo?)	Wechselpräposition: Ort	Wir treffen uns vor ___.	der Bibliothek	die Bibliothek	sg	bestimmt	Let's meet in front of the library.
+D42	Dativ	vor (wann?)	Wechselpräposition: Zeit	Vor ___ habe ich noch in Paris gewohnt.	einem Jahr	das Jahr	sg	unbestimmt	A year ago I was still living in Paris.
+D43	Dativ	in (wann?)	Wechselpräposition: Zeit	In ___ bin ich wieder zurück.	einer Woche	die Woche	sg	unbestimmt	I'll be back in a week.
+D44	Dativ	ähnlich	Dativ-Adjektiv	Der Sohn ist ___ sehr ähnlich.	dem Vater	der Vater	sg	bestimmt	The son looks very much like the father.
+D45	Dativ	dankbar	Dativ-Adjektiv	Ich bin ___ sehr dankbar.	der Familie	die Familie	sg	bestimmt	I'm very grateful to the family.
+D46	Dativ	Angst haben vor	Verb + Präposition	Das Kind hat Angst vor ___.	dem Hund	der Hund	sg	bestimmt	The child is afraid of the dog.
+D47	Dativ	teilnehmen an	Verb + Präposition	Ich nehme an ___ teil.	einem Sprachkurs	der Sprachkurs	sg	unbestimmt	I'm taking part in a language course.
+D48	Dativ	es geht	feste Wendung (wie geht es + Dativ)	Wie geht es ___?	dem Baby	das Baby	sg	bestimmt	How is the baby doing?
+D49	Dativ	fragen nach	Verb + Präposition	Er hat nach ___ gefragt.	dem Weg	der Weg	sg	bestimmt	He asked for directions.
+D50	Dativ	erzählen von	Verb + Präposition	Erzähl mir von ___!	der Reise	die Reise	sg	bestimmt	Tell me about the trip!
+D51	Dativ	mit	Dativ-Präposition (n-Deklination)	Mit ___ habe ich darüber gesprochen.	keinem Menschen	der Mensch	sg	kein	I haven't talked to anyone about it.
+D52	Dativ	sich anfreunden mit	Verb + Präposition (n-Deklination)	Ich habe mich mit ___ angefreundet, umzuziehen.	dem Gedanken	der Gedanke	sg	bestimmt	I've warmed to the idea of moving.
+G01	Genitiv	wegen	Genitiv-Präposition	Wegen ___ fällt das Spiel aus.	des Regens	der Regen	sg	bestimmt	The match is cancelled because of the rain.
+G02	Genitiv	wegen	Genitiv-Präposition	Wegen ___ bin ich zu spät gekommen.	des Staus	der Stau	sg	bestimmt	I was late because of the traffic jam.
+G03	Genitiv	wegen	Genitiv-Präposition	Wegen ___ ist die Straße gesperrt.	eines Unfalles|eines Unfalls	der Unfall	sg	unbestimmt	The road is closed because of an accident.
+G04	Genitiv	trotz	Genitiv-Präposition	Trotz ___ sind wir spazieren gegangen.	des Wetters	das Wetter	sg	bestimmt	We went for a walk despite the weather.
+G05	Genitiv	trotz	Genitiv-Präposition	Trotz ___ hat sie die Prüfung bestanden.	der Krankheit	die Krankheit	sg	bestimmt	Despite the illness she passed the exam.
+G06	Genitiv	trotz	Genitiv-Präposition	Trotz ___ ist er zur Arbeit gegangen.	der Schmerzen	die Schmerzen	pl	bestimmt	Despite the pain he went to work.
+G07	Genitiv	während	Genitiv-Präposition	Während ___ darf man nicht telefonieren.	der Vorlesung	die Vorlesung	sg	bestimmt	You're not allowed to make phone calls during the lecture.
+G08	Genitiv	während	Genitiv-Präposition	Während ___ habe ich viel gelernt.	des Praktikums	das Praktikum	sg	bestimmt	I learned a lot during the internship.
+G09	Genitiv	während	Genitiv-Präposition	Während ___ war die Bibliothek geschlossen.	der Ferien	die Ferien	pl	bestimmt	The library was closed during the holidays.
+G10	Genitiv	innerhalb	Genitiv-Präposition	Bitte antworten Sie innerhalb ___.	einer Woche	die Woche	sg	unbestimmt	Please reply within a week.
+G11	Genitiv	innerhalb	Genitiv-Präposition	Innerhalb ___ ist das Rauchen verboten.	des Gebäudes	das Gebäude	sg	bestimmt	Smoking is prohibited inside the building.
+G12	Genitiv	außerhalb	Genitiv-Präposition	Wir wohnen außerhalb ___.	der Stadt	die Stadt	sg	bestimmt	We live outside the city.
+G13	Genitiv	aufgrund	Genitiv-Präposition	Aufgrund ___ wurde der Zug gestrichen.	eines Streikes|eines Streiks	der Streik	sg	unbestimmt	The train was cancelled due to a strike.
+G14	Genitiv	statt	Genitiv-Präposition	Statt ___ trinke ich heute Tee.	des Kaffees	der Kaffee	sg	bestimmt	Instead of coffee I'm drinking tea today.
+G15	Genitiv	anstatt	Genitiv-Präposition	Anstatt ___ nehme ich lieber das Fahrrad.	des Autos	das Auto	sg	bestimmt	Instead of the car I'd rather take the bike.
+G16	Genitiv	angesichts	Genitiv-Präposition	Angesichts ___ müssen wir sparen.	der Preise	die Preise	pl	bestimmt	In view of the prices we need to save money.
+G17	Genitiv	mithilfe	Genitiv-Präposition	Mithilfe ___ habe ich die Wohnung gefunden.	eines Freundes|eines Freunds	der Freund	sg	unbestimmt	I found the apartment with the help of a friend.
+G18	Genitiv	infolge	Genitiv-Präposition	Infolge ___ sind die Preise gestiegen.	der Krise	die Krise	sg	bestimmt	As a result of the crisis, prices have risen.
+G19	Genitiv	bezüglich	Genitiv-Präposition	Ich schreibe Ihnen bezüglich ___.	der Rechnung	die Rechnung	sg	bestimmt	I'm writing to you regarding the invoice.
+G20	Genitiv	anhand	Genitiv-Präposition	Anhand ___ erkläre ich das Problem.	eines Beispieles|eines Beispiels	das Beispiel	sg	unbestimmt	I'll explain the problem using an example.
+G21	Genitiv	Attribut	Genitivattribut	Das Ende ___ war traurig.	des Filmes|des Films	der Film	sg	bestimmt	The end of the film was sad.
+G22	Genitiv	Attribut	Genitivattribut	Der Name ___ ist mir entfallen.	des Restaurants	das Restaurant	sg	bestimmt	The name of the restaurant has slipped my mind.
+G23	Genitiv	Attribut	Genitivattribut	Am Anfang ___ habe ich wenig verstanden.	des Semesters	das Semester	sg	bestimmt	At the beginning of the semester I understood very little.
+G24	Genitiv	Attribut	Genitivattribut	Am Ende ___ bin ich immer müde.	der Woche	die Woche	sg	bestimmt	At the end of the week I'm always tired.
+G25	Genitiv	Attribut	Genitivattribut (n-Deklination)	Das ist das Zimmer ___.	des Studenten	der Student	sg	bestimmt	That's the student's room.
+G26	Genitiv	Attribut	Genitivattribut (n-Deklination, -ns)	Die Bedeutung ___ ist mir unklar.	des Namens	der Name	sg	bestimmt	The meaning of the name is unclear to me.
+G27	Genitiv	Attribut	Genitivattribut (n-Deklination)	Das ist das Büro ___ Schmidt.	des Herrn	der Herr	sg	bestimmt	That's Mr Schmidt's office.
+G28	Genitiv	Attribut	Genitivattribut (n-Deklination)	Die Meinung ___ ist uns wichtig.	der Kunden	die Kunden	pl	bestimmt	The customers' opinion is important to us.
+G29	Genitiv	Attribut	Genitivattribut	Die Lösung ___ ist einfach.	des Problems	das Problem	sg	bestimmt	The solution to the problem is simple.
+G30	Genitiv	Attribut	Genitivattribut	Das Ergebnis ___ war überraschend.	der Studie	die Studie	sg	bestimmt	The result of the study was surprising.
+G31	Genitiv	Attribut	Genitivattribut	Die Mitarbeiter ___ streiken.	der Firma	die Firma	sg	bestimmt	The company's employees are on strike.
+G32	Genitiv	Attribut	Genitivattribut	Das Dach ___ ist kaputt.	des Hauses	das Haus	sg	bestimmt	The roof of the house is broken.
+G33	Genitiv	Attribut	Genitivattribut	Die Farbe ___ gefällt mir.	des Mantels	der Mantel	sg	bestimmt	I like the colour of the coat.
+G34	Genitiv	Attribut	Genitivattribut	Das ist der Traum ___.	eines Kindes|eines Kinds	das Kind	sg	unbestimmt	That's a child's dream.
+G35	Genitiv	Attribut	Genitivattribut	Die Qualität ___ hat sich verbessert.	der Produkte	die Produkte	pl	bestimmt	The quality of the products has improved.
+G36	Genitiv	gedenken	Genitiv-Verb	Heute gedenken wir ___.	der Opfer	die Opfer	pl	bestimmt	Today we remember the victims.
+G37	Genitiv	sich bewusst sein	Genitiv-Adjektiv	Ich bin mir ___ bewusst.	des Risikos	das Risiko	sg	bestimmt	I'm aware of the risk.
+G38	Genitiv	bedürfen	Genitiv-Verb	Das bedarf ___.	einer Erklärung	die Erklärung	sg	unbestimmt	That requires an explanation.
+G39	Genitiv	eines Tages	feste Wendung (Zeitangabe)	___ wirst du das verstehen.	eines Tages	der Tag	sg	unbestimmt	One day you'll understand that.
+G40	Genitiv	in der Nähe	Genitivattribut	Die Wohnung liegt in der Nähe ___.	des Bahnhofes|des Bahnhofs	der Bahnhof	sg	bestimmt	The apartment is near the station.
+G41	Genitiv	während	Genitiv-Präposition	Während ___ hat er geschlafen.	der Fahrt	die Fahrt	sg	bestimmt	He slept during the journey.
+G42	Genitiv	innerhalb	Genitiv-Präposition	Er hat innerhalb ___ Deutsch gelernt.	eines Jahres|eines Jahrs	das Jahr	sg	unbestimmt	He learned German within a year.
