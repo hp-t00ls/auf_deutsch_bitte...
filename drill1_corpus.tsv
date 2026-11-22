@@ -1,0 +1,140 @@
+noun	case	trigger	german	english
+Tisch	Nominativ	Das Subjekt:	{NP} {steht|stehen} in der Küche.	{NP} {is|are} in the kitchen.
+Tisch	Nominativ	Dort steht/sind	Dort {steht|stehen} {NP} für die Gäste.	Over there {is|are} {NP} for the guests.
+Tisch	Nominativ	Das ist	Das {ist|sind} {NP} aus dem Wohnzimmer.	{That is|Those are} {NP} from the living room.
+Tisch	Akkusativ	Ich sehe / brauche	Ich brauche {NP} für mein Zimmer.	I need {NP} for my room.
+Tisch	Akkusativ	Für	Wir suchen Stühle für {NP}.	We're looking for chairs for {NP}.
+Tisch	Akkusativ	Ohne	Ohne {NP} können wir nicht essen.	We can't eat without {NP}.
+Tisch	Dativ	Mit	Ich kaufe eine Küche mit {NP}.	I'm buying a kitchen with {NP}.
+Tisch	Dativ	Gegenüber	Das Sofa steht gegenüber {NP}.	The sofa is opposite {NP}.
+Tisch	Genitiv	Wegen	Wegen {NP} ist die Küche zu klein.	Because of {NP}, the kitchen is too small.
+Tisch	Genitiv	Trotz	Trotz {NP} ist im Raum noch viel Platz.	Despite {NP}, there's still a lot of space in the room.
+Gedanke	Nominativ	Das Subjekt:	{NP} {geht|gehen} mir durch den Kopf.	{NP} {goes|go} through my head.
+Gedanke	Nominativ	Das ist	Das {ist|sind} {NP} für später.	{That is|Those are} {NP} for later.
+Gedanke	Akkusativ	Für	Danke für {NP}!	Thanks for {NP}!
+Gedanke	Akkusativ	Es geht um	Es geht um {NP} hinter dem Projekt.	It's about {NP} behind the project.
+Gedanke	Dativ	Mit	Mit {NP} beginnt jede gute Idee.	Every good idea starts with {NP}.
+Gedanke	Dativ	Bei	Bei {NP} an die Prüfung werde ich nervös.	I get nervous at {NP} of the exam.
+Gedanke	Genitiv	Wegen	Wegen {NP} lag ich lange wach.	I lay awake for a long time because of {NP}.
+Student	Nominativ	Das Subjekt:	{NP} {wartet|warten} vor dem Hörsaal.	{NP} {is|are} waiting in front of the lecture hall.
+Student	Nominativ	Dort steht/sind	Dort {steht|stehen} {NP} aus meinem Kurs.	Over there {is|are} {NP} from my course.
+Student	Nominativ	Das ist	Das {ist|sind} {NP} aus Spanien.	{That is|Those are} {NP} from Spain.
+Student	Akkusativ	Ich sehe / brauche	Ich sehe {NP} jeden Tag in der Mensa.	I see {NP} in the cafeteria every day.
+Student	Akkusativ	Für	Das Zimmer ist ideal für {NP}.	The room is ideal for {NP}.
+Student	Akkusativ	Ohne	Ohne {NP} wäre die Uni leer.	Without {NP} the university would be empty.
+Student	Akkusativ	Es geht um	In dem Artikel geht es um {NP} aus Bonn.	The article is about {NP} from Bonn.
+Student	Dativ	Mit	Ich wohne mit {NP} zusammen.	I live with {NP}.
+Student	Dativ	Bei	Bei {NP} ist die Mensa sehr beliebt.	The cafeteria is very popular with {NP}.
+Student	Dativ	Gegenüber	Der Professor sitzt gegenüber {NP}.	The professor is sitting opposite {NP}.
+Student	Genitiv	Wegen	Wegen {NP} ist die Bibliothek heute voll.	Because of {NP}, the library is full today.
+Vorschlag	Nominativ	Das Subjekt:	{NP} {kommt|kommen} vom Chef.	{NP} {comes|come} from the boss.
+Vorschlag	Nominativ	Das ist	Das {ist|sind} {NP} von meiner Kollegin.	{That is|Those are} {NP} from my colleague.
+Vorschlag	Akkusativ	Ich sehe / brauche	Ich brauche {NP} bis Freitag.	I need {NP} by Friday.
+Vorschlag	Akkusativ	Ohne	Ohne {NP} kommen wir nicht weiter.	We won't get any further without {NP}.
+Vorschlag	Akkusativ	Es geht um	In der Sitzung geht es um {NP} von Anna.	The meeting is about {NP} from Anna.
+Vorschlag	Dativ	Mit	Mit {NP} bin ich einverstanden.	I agree with {NP}.
+Vorschlag	Dativ	Nach	Nach {NP} haben wir lange diskutiert.	After {NP} we discussed for a long time.
+Vorschlag	Genitiv	Trotz	Trotz {NP} bleibt der Chef bei seinem Plan.	Despite {NP}, the boss is sticking to his plan.
+Vorschlag	Genitiv	Wegen	Wegen {NP} gab es Streit.	There was an argument because of {NP}.
+Vorschlag	Genitiv	Aufgrund	Aufgrund {NP} ändern wir das Konzept.	Due to {NP}, we're changing the concept.
+Alltag	Nominativ	Das Subjekt:	{NP} {ist|sind} oft stressig.	{NP} {is|are} often stressful.
+Alltag	Nominativ	Das ist	Das {ist|sind} {NP} in Deutschland.	{That is|Those are} {NP} in Germany.
+Alltag	Akkusativ	Für	Diese Tipps sind gut für {NP}.	These tips are good for {NP}.
+Alltag	Akkusativ	Es geht um	In dem Kurs geht es um {NP} in Bonn.	The course is about {NP} in Bonn.
+Alltag	Dativ	Aus	Die Beispiele kommen aus {NP}.	The examples come from {NP}.
+Alltag	Genitiv	Trotz	Trotz {NP} findet sie Zeit für Sport.	Despite {NP}, she finds time for sport.
+Entscheidung	Nominativ	Das Subjekt:	{NP} {fällt|fallen} mir schwer.	{NP} {is|are} hard for me.
+Entscheidung	Nominativ	Das ist	Das {ist|sind} {NP} fürs Leben.	{That is|Those are} {NP} for life.
+Entscheidung	Akkusativ	Ich sehe / brauche	Ich brauche {NP} bis morgen.	I need {NP} by tomorrow.
+Entscheidung	Akkusativ	Für	Wir haben gute Gründe für {NP}.	We have good reasons for {NP}.
+Entscheidung	Akkusativ	Ohne	Ohne {NP} geht es nicht weiter.	We can't move on without {NP}.
+Entscheidung	Akkusativ	Es geht um	Es geht um {NP} über die Zukunft.	It's about {NP} about the future.
+Entscheidung	Dativ	Mit	Ich bin mit {NP} zufrieden.	I'm happy with {NP}.
+Entscheidung	Dativ	Nach	Nach {NP} fühlte ich mich besser.	After {NP} I felt better.
+Entscheidung	Dativ	Bei	Bei {NP} hilft mir meine Familie.	My family helps me with {NP}.
+Entscheidung	Genitiv	Trotz	Trotz {NP} bleibe ich in Bonn.	Despite {NP}, I'm staying in Bonn.
+Entscheidung	Genitiv	Wegen	Wegen {NP} gab es viel Kritik.	There was a lot of criticism because of {NP}.
+Entscheidung	Genitiv	Aufgrund	Aufgrund {NP} ziehen wir um.	Due to {NP}, we're moving.
+Erfahrung	Nominativ	Das Subjekt:	{NP} {hilft|helfen} mir im Beruf.	{NP} {helps|help} me in my job.
+Erfahrung	Nominativ	Das ist	Das {ist|sind} {NP} aus meinem Praktikum.	{That is|Those are} {NP} from my internship.
+Erfahrung	Akkusativ	Ich sehe / brauche	Ich brauche {NP} im Ausland.	I need {NP} abroad.
+Erfahrung	Akkusativ	Ohne	Ohne {NP} bekommt man den Job nicht.	You won't get the job without {NP}.
+Erfahrung	Akkusativ	Es geht um	Im Gespräch geht es um {NP} im Ausland.	The conversation is about {NP} abroad.
+Erfahrung	Dativ	Mit	Mit {NP} wird alles leichter.	With {NP}, everything gets easier.
+Erfahrung	Dativ	Nach	Nach {NP} bin ich vorsichtiger.	After {NP}, I'm more careful.
+Erfahrung	Dativ	Aus	Ich spreche aus {NP}.	I'm speaking from {NP}.
+Erfahrung	Genitiv	Trotz	Trotz {NP} hat er Fehler gemacht.	Despite {NP}, he made mistakes.
+Erfahrung	Genitiv	Aufgrund	Aufgrund {NP} hat sie den Job bekommen.	Because of {NP}, she got the job.
+Möglichkeit	Nominativ	Das Subjekt:	{NP} {klingt|klingen} gut.	{NP} {sounds|sound} good.
+Möglichkeit	Nominativ	Das ist	Das {ist|sind} {NP} für dich.	{That is|Those are} {NP} for you.
+Möglichkeit	Akkusativ	Ich sehe / brauche	Ich sehe {NP} für ein Praktikum.	I see {NP} for an internship.
+Möglichkeit	Akkusativ	Für	Ich bin offen für {NP}.	I'm open to {NP}.
+Möglichkeit	Akkusativ	Es geht um	Es geht um {NP}, im Ausland zu studieren.	It's about {NP} of studying abroad.
+Möglichkeit	Dativ	Nach	Ich suche nach {NP}, Geld zu sparen.	I'm looking for {NP} to save money.
+Möglichkeit	Genitiv	Trotz	Trotz {NP} bleibt sie zu Hause.	Despite {NP}, she stays at home.
+Möglichkeit	Genitiv	Aufgrund	Aufgrund {NP} hat sie sich beworben.	Because of {NP}, she applied.
+Woche	Nominativ	Das Subjekt:	{NP} {war|waren} sehr anstrengend.	{NP} {was|were} very exhausting.
+Woche	Nominativ	Das ist	Das {ist|sind} {NP} vor den Prüfungen.	{That is|Those are} {NP} before the exams.
+Woche	Akkusativ	Ich sehe / brauche	Ich brauche {NP} Urlaub.	I need {NP} of holiday.
+Woche	Akkusativ	Für	Ich fahre für {NP} nach Spanien.	I'm going to Spain for {NP}.
+Woche	Dativ	Nach	Nach {NP} hatte ich mich eingelebt.	After {NP} I had settled in.
+Woche	Genitiv	Während	Während {NP} arbeite ich viel.	During {NP} I work a lot.
+Woche	Genitiv	Innerhalb	Innerhalb {NP} ist alles fertig.	Everything will be finished within {NP}.
+Sprache	Nominativ	Das Subjekt:	{NP} {klingt|klingen} sehr schön.	{NP} {sounds|sound} very beautiful.
+Sprache	Nominativ	Das ist	Das {ist|sind} {NP}, die ich lernen möchte.	{That is|Those are} {NP} I'd like to learn.
+Sprache	Akkusativ	Ich sehe / brauche	Ich brauche {NP} für meinen Job.	I need {NP} for my job.
+Sprache	Akkusativ	Für	Sie hat ein Talent für {NP}.	She has a talent for {NP}.
+Sprache	Akkusativ	Ohne	Ohne {NP} ist Integration schwer.	Integration is hard without {NP}.
+Sprache	Akkusativ	Es geht um	Im Seminar geht es um {NP} der Jugend.	The seminar is about {NP} of young people.
+Sprache	Dativ	Mit	Mit {NP} kann man überall arbeiten.	With {NP} you can work anywhere.
+Sprache	Dativ	Aus	Dieses Wort kommt aus {NP} der Römer.	This word comes from {NP} of the Romans.
+Sprache	Dativ	Bei	Bei {NP} helfen mir Podcasts.	Podcasts help me with {NP}.
+Sprache	Genitiv	Wegen	Wegen {NP} hatte ich am Anfang Probleme.	Because of {NP}, I had problems at the beginning.
+Problem	Nominativ	Das Subjekt:	{NP} {ist|sind} schnell gelöst.	{NP} {is|are} quickly solved.
+Problem	Nominativ	Das ist	Das {ist|sind} {NP} für uns.	{That is|Those are} {NP} for us.
+Problem	Akkusativ	Ich sehe / brauche	Ich sehe hier {NP}.	I see {NP} here.
+Problem	Akkusativ	Für	Wir suchen eine Lösung für {NP}.	We're looking for a solution to {NP}.
+Problem	Akkusativ	Ohne	Die Reise verlief ohne {NP}.	The trip went without {NP}.
+Problem	Akkusativ	Es geht um	Es geht um {NP} mit der Heizung.	It's about {NP} with the heating.
+Problem	Dativ	Mit	Mit {NP} hatten wir schon gerechnet.	We had already expected {NP}.
+Problem	Dativ	Nach	Nach {NP} mit dem Auto fahre ich mit dem Zug.	After {NP} with the car, I'm taking the train.
+Problem	Dativ	Bei	Ich brauche Hilfe bei {NP}.	I need help with {NP}.
+Problem	Genitiv	Trotz	Trotz {NP} sind wir pünktlich angekommen.	Despite {NP}, we arrived on time.
+Problem	Genitiv	Wegen	Wegen {NP} mit dem Zug komme ich später.	Because of {NP} with the train, I'll be late.
+Problem	Genitiv	Aufgrund	Aufgrund {NP} wurde das Spiel abgesagt.	Due to {NP}, the match was cancelled.
+Beispiel	Nominativ	Das Subjekt:	{NP} {macht|machen} die Regel klar.	{NP} {makes|make} the rule clear.
+Beispiel	Nominativ	Das ist	Das {ist|sind} {NP} aus dem Alltag.	{That is|Those are} {NP} from everyday life.
+Beispiel	Akkusativ	Ich sehe / brauche	Ich brauche {NP}, um das zu verstehen.	I need {NP} to understand that.
+Beispiel	Akkusativ	Für	Danke für {NP}!	Thanks for {NP}!
+Beispiel	Akkusativ	Ohne	Ohne {NP} verstehe ich die Regel nicht.	Without {NP} I don't understand the rule.
+Beispiel	Dativ	Mit	Erklär es mir mit {NP}.	Explain it to me with {NP}.
+Beispiel	Dativ	Aus	Das ist ein Satz aus {NP} im Buch.	That's a sentence from {NP} in the book.
+Beispiel	Dativ	Bei	Bei {NP} sieht man den Fehler sofort.	With {NP}, you can see the mistake immediately.
+Beispiel	Genitiv	Trotz	Trotz {NP} war die Regel schwer.	Despite {NP}, the rule was hard.
+Ergebnis	Nominativ	Das Subjekt:	{NP} {war|waren} überraschend.	{NP} {was|were} surprising.
+Ergebnis	Nominativ	Das ist	Das {ist|sind} {NP} der Umfrage.	{That is|Those are} {NP} of the survey.
+Ergebnis	Akkusativ	Ich sehe / brauche	Ich brauche {NP} bis Montag.	I need {NP} by Monday.
+Ergebnis	Akkusativ	Ohne	Ohne {NP} können wir nicht weitermachen.	We can't continue without {NP}.
+Ergebnis	Akkusativ	Es geht um	Es geht um {NP} der Prüfung.	It's about {NP} of the exam.
+Ergebnis	Dativ	Mit	Ich bin mit {NP} zufrieden.	I'm happy with {NP}.
+Ergebnis	Dativ	Nach	Nach {NP} feiern wir.	After {NP} we'll celebrate.
+Ergebnis	Dativ	Aus	Aus {NP} lernen wir viel.	We learn a lot from {NP}.
+Ergebnis	Genitiv	Trotz	Trotz {NP} bleibt sie optimistisch.	Despite {NP}, she stays optimistic.
+Ergebnis	Genitiv	Wegen	Wegen {NP} müssen wir den Plan ändern.	We have to change the plan because of {NP}.
+Ergebnis	Genitiv	Aufgrund	Aufgrund {NP} gibt es neue Regeln.	Due to {NP}, there are new rules.
+Ziel	Nominativ	Das Subjekt:	{NP} {ist|sind} klar.	{NP} {is|are} clear.
+Ziel	Nominativ	Das ist	Das {ist|sind} {NP} für dieses Jahr.	{That is|Those are} {NP} for this year.
+Ziel	Akkusativ	Ich sehe / brauche	Ich brauche {NP} im Leben.	I need {NP} in life.
+Ziel	Akkusativ	Für	Ich arbeite hart für {NP}.	I work hard for {NP}.
+Ziel	Akkusativ	Ohne	Ohne {NP} fehlt mir die Motivation.	Without {NP}, I lack motivation.
+Ziel	Akkusativ	Es geht um	Es geht um {NP} des Projekts.	It's about {NP} of the project.
+Ziel	Dativ	Mit	Mit {NP} vor Augen lerne ich besser.	With {NP} in mind, I study better.
+Ziel	Dativ	Bei	Bei {NP} hilft mir ein Plan.	A plan helps me with {NP}.
+Ziel	Genitiv	Wegen	Wegen {NP} lerne ich jeden Tag.	Because of {NP}, I study every day.
+Jahr	Nominativ	Das Subjekt:	{NP} {war|waren} sehr schön.	{NP} {was|were} very nice.
+Jahr	Nominativ	Das ist	Das {ist|sind} {NP} meines Lebens.	{That is|Those are} {NP} of my life.
+Jahr	Akkusativ	Ich sehe / brauche	Ich brauche {NP} für den Master.	I need {NP} for the master's.
+Jahr	Akkusativ	Für	Ich gehe für {NP} nach Spanien.	I'm going to Spain for {NP}.
+Jahr	Dativ	Nach	Nach {NP} in Bonn spreche ich besser Deutsch.	After {NP} in Bonn I speak better German.
+Jahr	Genitiv	Während	Während {NP} in Bonn habe ich viel gelernt.	During {NP} in Bonn I learned a lot.
+Jahr	Genitiv	Innerhalb	Innerhalb {NP} habe ich Deutsch gelernt.	I learned German within {NP}.
